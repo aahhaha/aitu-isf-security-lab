@@ -1,0 +1,9 @@
+{
+  "subject": "ISF",
+  "repository": "https://github.com/aahhaha/aitu-isf-security-lab",
+  "run_id": 43629494163,
+  "run_url": "https://github.com/aahhaha/aitu-isf-security-lab/actions/runs/43629494163",
+  "tested_commit": "3002f1cf1c75766a7cd5f70208a7bd862c78b964",
+  "core_tests": 17,
+  "conclusion": "success"
+}
