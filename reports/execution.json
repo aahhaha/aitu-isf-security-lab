@@ -1,0 +1,19 @@
+{
+  "recorded_at_utc": "2026-11-14T18:55:44.115484+00:00",
+  "python": "3.12.14",
+  "platform": "Windows-11-10.0.26100-SP0",
+  "command": "python -m pytest -q -m \"not browser and not external\"",
+  "exit_code": 0,
+  "junit": {
+    "tests": 17,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "source_sha256": {
+    "security_lab.py": "d36406877ed3e1c5dac758f9f1c0eb88084f208ec93b6fe96d81e43e20e03625",
+    "tests/test_security.py": "868fbaab2b01049f763bfa542fcb49dbdf25a80fd17d957ce580a4b2f239712e",
+    "tests/test_tls.py": "ded83e4b51c4472e288ace70a31a7cfa41cc6b1391e5837ecd6d967c49df4952",
+    "tools/evidence.py": "21a5221fd32684ab59ea3ba3e95e9555a3a05098e7800f4b0db9660adb46e911"
+  }
+}
